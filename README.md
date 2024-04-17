@@ -1,2 +1,2 @@
 # tree-sitter-sdlang
-SDLang grammar for tree-sitter
+[SDLang](https://sdlang.org/) grammar for tree-sitter
